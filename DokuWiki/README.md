@@ -43,3 +43,7 @@ There should be an output.txt file in the main folder and all outputs of the pro
 ## Menu (Interface)
 
 A menu must be created to provide all controls. From the menu, the user should be able to search, update the tag and the name of the txt file of that tag, and write to the file.
+
+## Important Note
+
+I run source code on the WSL.

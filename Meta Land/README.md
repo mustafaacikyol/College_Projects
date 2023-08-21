@@ -5,10 +5,10 @@ To be able to see and control the data of all players in the system and to deter
 It is the user role that has the authority to set its parameters. If the player is logged in to the system to play the game
 It is the role of the users who do it. The game will be operated according to the following rules:  
 ● The game will be played by visualizing it on a grid area or map divided into square areas.
-These square areas correspond to the land in the game and the business areas to be established on it.  
-will come. The administrator will determine how many squares this area will consist of. (For example 3x3 or 4x5 etc.)
-● The system gives a certain amount of money, food and items to the new players who join the game.  
-(These three properties will be represented by numerical values).
+These square areas correspond to the land in the game and the business areas to be established on it.
+will come. The administrator will determine how many squares this area will consist of. (For example 3x3 or 4x5 etc.)  
+● The system gives a certain amount of money, food and items to the new players who join the game.
+(These three properties will be represented by numerical values).  
 ● A fixed amount of subtractions from the amount of food, items and money each player has on a daily basis
 will be done. The player whose amount of food or item is completely exhausted loses the game.
 will be.  
